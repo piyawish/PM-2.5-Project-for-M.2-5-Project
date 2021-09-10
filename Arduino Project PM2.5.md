@@ -1,6 +1,6 @@
 # PM-2.5-Project-for-M.2-5-Project
 
-```
+```C++
 
 // M.2/5 Project 
 // Create By Piyawish
@@ -24,7 +24,7 @@ void setup() {
   lcd.init();                      
   lcd.init();
   // Print a message to the LCD.
-  lcd.backlight();
+  
   
 
 }
